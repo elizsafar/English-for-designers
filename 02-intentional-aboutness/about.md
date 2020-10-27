@@ -1,6 +1,6 @@
 ## Eliška Šafářová ##
 
-*Graphic designer striving to create world peace between graphics and customers. Being double personality loving both simplicity and chaos.*
+*Graphic designer striving to create world peace between graphics and customers. Being double personality, loving both simplicity and chaos.*
 
 - - -
 
