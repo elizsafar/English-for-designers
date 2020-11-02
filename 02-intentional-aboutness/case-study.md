@@ -1,5 +1,5 @@
 ## COMING SOON ##
 
-#### *please be patient* ####
+#### please be patient ####
 ---
-##### thank you #####
+##### *thank you* #####
