@@ -1,6 +1,6 @@
 # Eliška Šafářová
 
-- [About](02-intentional-aboutness/about)
+- [About](02-intentional-aboutness/about.md)
 
 ## Work
 
