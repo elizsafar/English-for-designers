@@ -49,7 +49,7 @@ For example my family is mixed with kind and truly lovely people but we have our
 ---
 
 
-#### FORM
+## FORM
 The form we did for our finale poster is different than you would expect from infographic poster. We wanted to make something not common, something you had to go deep in and have fun with just looking at it. We wanted people to be interested in enough to go to our web and say „what is that?“ and have lots of questions. 
 <br />
 <br />
