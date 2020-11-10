@@ -1,4 +1,3 @@
-`in process`
 
 ## The Infographic you are not used to ##
 
@@ -27,7 +26,7 @@ So we created imaginary count families and thats it.
 We made 4 different imaginary genus. 
 The 4 genus were based on our behavior and from that we assigned real people as our overtones, who lived in the past or live now, we were also inspired by world events, which we incorporated into our family tree and created a unique imaginary history of 4 pedigrees, which over time met, due to marriage or events. 
 <br />
-For example my family is mixed with kind and truly lovely people but we have our not such a clasicc history. My grandgrandfather is Heinrich Himmler, Max Ernst,or my grandauntie Princess Margaret, Countess of Snowdon well you cant pick your ancestors. 
+For example my family is mixed with kind and truly lovely people but we have our villain and not a clasicc history as it usual is. My grandgrandfather is Heinrich Himmler, Max Ernst,or ofcourse you know my grandauntie Princess Margaret, Countess of Snowdon. The true is you cant pick your ancestors. 
 <br />
 <br />
 ![moodboard](./img/moodboard_kl.png)
