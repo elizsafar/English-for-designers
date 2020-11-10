@@ -41,7 +41,9 @@ For example my family is mixed with kind and truly lovely people but we have our
 #### FORM
 The form we did for our finale poster is different than you would expect from infographic poster. We wanted to make something not common, something you had to go deep in and have fun with just looking at it. We wanted people to be interested in enough to go to our web and say „what is that?“ and have lots of questions. 
 
-*What are your questions. Let us know.*
+---
+
+##### *What are your questions? Let us know.*
 
 [The protyp.](https://www.figma.com/proto/C8uqGjcG0Vj3Wl8P8E5Qku/Webov%C3%A1-Aplikace?node-id=421%3A18078&scaling=min-zoom)
 `not in english`
