@@ -21,11 +21,13 @@ Our first big problem was to find something not boring, something differennt and
 As a research we found that the *„graph“* in czech *„graf“* means something different in German. What? Well something enormously different. In German *der GRAF* means *count*. Yes. *Count.* You are maybe thinking how could the *count* has something to do with common graph and infographic at all. 
 For us that meant : every counts family has their own familytrees (lineage), erbs, lots of affairs, descendantes. And thats how the idea was born. 
 #### But where could we find a count family to make a lineage for?  
-We could create imaginary count family and thats what we did.
+So we created imaginary count families and thats it.
 <br />
 #### The imaginary count family? WHAT? HOW?
 We made 4 different imaginary genus. 
-The 4 genus were based on our behavior and from that we assigned real people as our overtones, who lived in the past or live now, we were also inspired by world events, which we incorporated into our family tree and created a unique imaginary history of 4 pedigrees, which over time met, due to marriage or events. We took as our family members for example Einstein...
+The 4 genus were based on our behavior and from that we assigned real people as our overtones, who lived in the past or live now, we were also inspired by world events, which we incorporated into our family tree and created a unique imaginary history of 4 pedigrees, which over time met, due to marriage or events. 
+<br />
+For example my family is mixed with kind and truly lovely people but we have our not such a clasicc history. My grandgrandfather is Heinrich Himmler, Max Ernst,or my grandauntie Princess Margaret, Countess of Snowdon well you cant pick your ancestors. 
 <br />
 <br />
 ![measure activities](./img/mereni-fotky.png)
