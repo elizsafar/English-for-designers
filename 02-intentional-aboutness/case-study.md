@@ -61,8 +61,8 @@ The form we did for our finale poster is different than you would expect from in
 `versions of posters_02`
 <br />
 <br />
-![posters_02](./img/poster_bigger_quality.jpg)
-`versions of posters_02`
+![Bigger_quality](./img/Poster_bigger_quality_02.jpg)
+`The final poster.`
 
 
 ---
