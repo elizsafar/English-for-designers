@@ -20,7 +20,7 @@ Our first big problem was to find something not boring, something differennt and
 As a research we found that the *„graph“* in czech *„graf“* means something different in German. What? Well something enormously different. In German *der GRAF* means *count*. Yes. *Count.* You are maybe thinking how could the *count* has something to do with common graph and infographic at all. 
 For us that meant : every counts family has their own familytrees (lineage), erbs, lots of affairs, descendantes. And thats how the idea was born. 
 #### But where could we find a count family to make a lineage for?  
-So we created imaginary count families and thats it.
+Well, what about to create imaginary count families based on true events and mixed history in a fun way. (just a little bit)
 <br />
 #### The imaginary count family? WHAT? HOW?
 We made 4 different imaginary genus. 
