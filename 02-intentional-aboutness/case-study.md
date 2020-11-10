@@ -26,3 +26,19 @@ We could create imaginary count family and thats what we did.
 #### The imaginary count family? WHAT? HOW?
 We made 4 different imaginary genus. 
 The 4 genus were based on our behavior and from that we assigned real people as our overtones, who lived in the past or live now, we were also inspired by world events, which we incorporated into our family tree and created a unique imaginary history of 4 pedigrees, which over time met, due to marriage or events. We took as our family members for example Einstein...
+<br />
+<br />
+![measure activities](./img/mereni-fotky.png)
+`moodboard`
+<br />
+<br />
+
+---
+
+
+#### FORM
+The form we did for our finale poster is different than you would expect from infographic poster. We wanted to make something not common, something you had to go deep in and have fun with just looking at it. We wanted through the poster made people interested enough to go to our web and say „what is that?“ that‘s exactly what we wanted. 
+
+*Whats your idea. Let us known.*
+
+[The protyp.](https://www.figma.com/proto/C8uqGjcG0Vj3Wl8P8E5Qku/Webov%C3%A1-Aplikace?node-id=421%3A18078&scaling=min-zoom)
