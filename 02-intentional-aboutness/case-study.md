@@ -36,6 +36,15 @@ For example my family is mixed with kind and truly lovely people but we have our
 <br />
 ![process_of_work](./img/process_of_work.png)
 `process of work`
+<br />
+<br />
+![finishing](./img/finishing_process.png)
+`finishing process, finding the style`
+<br />
+<br />
+![lineage](./img/lineage.png)
+`sketch of our lineage`
+
 
 ---
 
