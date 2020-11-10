@@ -23,7 +23,7 @@ For us that meant : every counts family has their own familytrees (lineage), erb
 #### But where could we find a count family to make a lineage for?  
 So we created imaginary count families and thats it.
 <br />
-The imaginary count family? WHAT? HOW?
+#### The imaginary count family? WHAT? HOW?
 We made 4 different imaginary genus. 
 The 4 genus were based on our behavior and from that we assigned real people as our overtones, who lived in the past or live now, we were also inspired by world events, which we incorporated into our family tree and created a unique imaginary history of 4 pedigrees, which over time met, due to marriage or events. 
 <br />
