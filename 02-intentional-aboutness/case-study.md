@@ -4,7 +4,7 @@ This project was the last project we created as a group for our finale semestral
 
 #### What was the topic of the semestral work? 
 
-- Make a graph. 
+- Make a graph. Infographic. Data visualization model. 
 
 That was the topic. Well. We did it but in our way.
 
