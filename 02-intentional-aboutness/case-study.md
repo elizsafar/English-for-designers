@@ -69,5 +69,10 @@ The form we did for our finale poster is different than you would expect from in
 
 ##### *What are your questions? Let us know.*
 
-[The protype.](https://www.figma.com/proto/C8uqGjcG0Vj3Wl8P8E5Qku/Webov%C3%A1-Aplikace?node-id=421%3A18078&scaling=min-zoom)
+[The protype of application.](https://www.figma.com/proto/C8uqGjcG0Vj3Wl8P8E5Qku/Webov%C3%A1-Aplikace?node-id=421%3A18078&scaling=min-zoom)
 `not in english`
+
+---
+
+![web_homepage](./img/Poster_bigger_quality_02.jpg)
+`Qiuck Sneak peak of our application. (for people who has no time)`
