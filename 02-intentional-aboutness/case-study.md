@@ -74,5 +74,5 @@ The form we did for our finale poster is different than you would expect from in
 
 ---
 
-![web_homepage](./img/Poster_bigger_quality_02.jpg)
+![web_homepage](./img/homepage_web.png)
 `Qiuck Sneak peak of our application. (for people who has no time)`
