@@ -42,3 +42,4 @@ The form we did for our finale poster is different than you would expect from in
 *Whats your idea. Let us known.*
 
 [The protyp.](https://www.figma.com/proto/C8uqGjcG0Vj3Wl8P8E5Qku/Webov%C3%A1-Aplikace?node-id=421%3A18078&scaling=min-zoom)
+`not in english`
