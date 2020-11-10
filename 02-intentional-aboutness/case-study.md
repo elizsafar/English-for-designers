@@ -30,11 +30,12 @@ The 4 genus were based on our behavior and from that we assigned real people as 
 For example my family is mixed with kind and truly lovely people but we have our not such a clasicc history. My grandgrandfather is Heinrich Himmler, Max Ernst,or my grandauntie Princess Margaret, Countess of Snowdon well you cant pick your ancestors. 
 <br />
 <br />
-![measure activities](./img/mereni-fotky.png)
+![moodboard](./img/moodboard_kl.png)
 `moodboard`
 <br />
 <br />
-
+![process_of_work](./img/process_of_work.png)
+`process of work`
 ---
 
 
