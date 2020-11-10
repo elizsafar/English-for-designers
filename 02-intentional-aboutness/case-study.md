@@ -1,3 +1,5 @@
+`in process`
+
 ## The Infographic you are not used to ##
 
 This project was the last project we created as a group for our finale semestral work in the second year. I created this project with my school mates. We were a group of 4. As everyone know, it was lockdown due to Corona virus so we were working just via internet and zoom calls. God bless for it. 
@@ -21,5 +23,5 @@ For us that meant : every counts family has their own familytrees (lineage), erb
 ##### *But where could we find a count family to make a lineage for? We could create imaginary count family and thats what we did.*
 
 #### The imaginary count family? WHAT? HOW?
-We made 4 different imaginary genus. We took our behaviour, world history, known significant people as Einstein, Royal family
-That was it. We did as a graph a lineage. 
+We made 4 different imaginary genus.
+The 4 genus were based on our behavior and from that we assigned real people as our overtones, who lived in the past or live now, we were also inspired by world events, which we incorporated into our family tree and created a unique imaginary history of 4 pedigrees, which over time met, due to marriage or events. We took as our family members for example Einstein...
