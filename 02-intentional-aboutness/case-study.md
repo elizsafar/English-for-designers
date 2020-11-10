@@ -14,7 +14,7 @@ First we had to find a theme, that would be interesting enough to work with, tha
 Our first big problem was to find something not boring, something differennt and most of all, enjoy it and have fun *(at home 24/7)*.
 <br />
 <br />
-![measure activities](./img/mereni-fotky.png)
+![Our group_having_fun](./img/us_work.png)
 `Our group. We were not bored at all.`
 <br />
 <br />
