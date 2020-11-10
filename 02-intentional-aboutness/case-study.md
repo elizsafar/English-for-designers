@@ -59,6 +59,10 @@ The form we did for our finale poster is different than you would expect from in
 <br />
 ![posters_02](./img/posters_infographic_01.png)
 `versions of posters_02`
+<br />
+<br />
+![posters_02](./img/poster_bigger_quality.jpg)
+`versions of posters_02`
 
 
 ---
