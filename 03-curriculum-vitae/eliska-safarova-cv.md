@@ -25,13 +25,13 @@ I'm a Graphic designer, painter, illustrator and especially human being. Free to
     czech, english, german
     
  * **Software experience:** 
-  Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD
   
-  Figma
-  
-  GitHub
-  
-  Procreate
-  
-  Microsoft Word 
+   *Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD*
+   
+   *Procreate*
+   
+   *Github*
+   
+   *Microsoft world*
+
  
