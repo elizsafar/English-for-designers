@@ -39,3 +39,11 @@ Born in small village, now living the Prague life mixed with country life.
 
  #### EXPERIENCE
  
+   *At university:
+   
+   *At high school:
+   
+   *In the real wolrd:
+   
+   
+ 
