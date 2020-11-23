@@ -15,9 +15,7 @@ I'm a Graphic designer, painter, illustrator and especially human being. Free to
   (2014-2018) High school of Technology and Art, Carlsbad
   
   
-  (2018-2021) University of Creative Communication, Prague 
-
- #### KNOWLEDGE
+  (2018-2021) Currently a student of the University of Creative Communication, Prague 
  
  
  #### SKILLS
@@ -27,3 +25,13 @@ I'm a Graphic designer, painter, illustrator and especially human being. Free to
     czech, english, german
     
  * **Software experience:** 
+  Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD
+  
+  Figma
+  
+  GitHub
+  
+  Procreate
+  
+  Microsoft Word 
+ 
