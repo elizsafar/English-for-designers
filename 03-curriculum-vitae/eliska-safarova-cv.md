@@ -17,5 +17,13 @@ I'm a Graphic designer, painter, illustrator and especially human being. Free to
   
   (2018-2021) University of Creative Communication, Prague 
 
-  
-   
+ #### KNOWLEDGE
+ 
+ 
+ #### SKILLS
+ 
+ * **Language:** 
+ 
+    czech, english, german
+    
+ * **Programmes:** 
