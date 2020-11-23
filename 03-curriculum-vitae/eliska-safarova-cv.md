@@ -37,4 +37,5 @@ Born in small village, now living the Prague life mixed with country life.
    
    *Microsoft world*
 
+ #### EXPERIENCE
  
