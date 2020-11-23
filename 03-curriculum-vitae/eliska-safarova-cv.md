@@ -4,6 +4,8 @@
 
 *First of all I'd love to say hi.* 
 
+
+
 **About me:** 
 
 I'm a Graphic designer, painter, illustrator and especially human being. Free to talk and discuss your needs and questions.
