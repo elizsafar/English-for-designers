@@ -38,12 +38,14 @@ Born in small village, now living the Prague life mixed with country life.
    *Microsoft world*
 
  #### EXPERIENCE
+  * **At university:** 
+  
+  * **At High school:**
+  
+  * **In the real wolrd:** 
  
-   *At university:*
+
    
-   *At high school:*
-   
-   *In the real wolrd:*
-   
+
    
  
