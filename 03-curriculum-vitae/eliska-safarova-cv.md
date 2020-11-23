@@ -26,4 +26,4 @@ I'm a Graphic designer, painter, illustrator and especially human being. Free to
  
     czech, english, german
     
- * **Programmes:** 
+ * **Software experience:** 
