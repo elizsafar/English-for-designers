@@ -22,7 +22,7 @@ I'm a Graphic designer, painter, illustrator and especially human being. Free to
  
  * **Language:** 
  
-    czech, english, german
+    *czech, english, german*
     
  * **Software experience:** 
   
