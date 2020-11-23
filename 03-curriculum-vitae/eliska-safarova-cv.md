@@ -4,9 +4,10 @@
 
 *First of all I'd love to say hi.* 
 
-I'm a Graphic designer, painter, illustrator and especially human being. Free to talk and discuss your needs and questions.
+**About me:** 
 
-* Born in small village, now living the Prague life mixed with country life.
+I'm a Graphic designer, painter, illustrator and especially human being. Free to talk and discuss your needs and questions.
+Born in small village, now living the Prague life mixed with country life.
 
 #### EDUCATION
 
