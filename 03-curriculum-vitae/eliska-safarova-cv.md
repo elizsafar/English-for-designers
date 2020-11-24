@@ -4,7 +4,7 @@
 
 `elizabeth.safarova@gmail.com` 
 
-instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/)`
+`instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/)`
 
 
 ---
