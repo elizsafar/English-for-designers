@@ -2,14 +2,16 @@
 
 # Eliška Šafářová
 
-*First of all I'd love to say hi.* 
 
 
 
+---
 **About me:** 
 
 I'm a Graphic designer, painter, illustrator and especially human being. Free to talk and discuss your needs and questions.
 Born in small village, now living the Prague life mixed with country life.
+
+--- 
 
 #### EDUCATION
 
@@ -19,7 +21,8 @@ Born in small village, now living the Prague life mixed with country life.
   
   
   (2018-2021) Currently a student of the University of Creative Communication, Prague 
- 
+  
+--- 
  
  #### SKILLS
  
@@ -36,6 +39,8 @@ Born in small village, now living the Prague life mixed with country life.
    *Github*
    
    *Microsoft world*
+   
+   ---
 
  #### EXPERIENCE
   * **At university:** 
