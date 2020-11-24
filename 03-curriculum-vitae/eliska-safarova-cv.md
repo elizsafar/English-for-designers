@@ -48,11 +48,8 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
    
 
  #### EXPERIENCE
-  * **At university:** 
+  * **Projects:** 
   
-  * **At High school:**
-  
-  * **In the real world:** 
   
   * **Interships:** 
  
