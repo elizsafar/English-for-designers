@@ -11,7 +11,7 @@ instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/)
 
 I'm a Graphic designer, painter, illustrator and especially human being..... 
 
---- 
+ 
 
 #### EDUCATION
 
@@ -22,7 +22,7 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
   
   (2018-2021) Currently at the University of Creative Communication, Prague 
   
---- 
+
  
  #### SKILLS
  
@@ -40,7 +40,6 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
    
    *Microsoft world*
    
-   ---
 
  #### EXPERIENCE
   * **At university:** 
