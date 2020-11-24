@@ -2,7 +2,9 @@
 
 # Eliška Šafářová
 
-`elizabeth.safarova@gmail.com, instagram: elizabeth`
+`elizabeth.safarova@gmail.com, 
+
+instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/)`
 
 
 ---
