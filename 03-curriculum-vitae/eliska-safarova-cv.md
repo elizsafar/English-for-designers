@@ -37,7 +37,8 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
     
  * **Software experience:** 
   
-   *Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD*
+   *Adobe CC - Illustrator, Photoshop, Lightroom, InDesign, Adobe XD* - what do you do in it ? i do logos in illustrator, illustartion..
+   - write what are you doing i these programmes
    
    *Procreate*
    
