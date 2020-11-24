@@ -7,7 +7,6 @@
 instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/) 
 
 
----
 **About me:** 
 
 I'm a Graphic designer, painter, illustrator and especially human being..... 
