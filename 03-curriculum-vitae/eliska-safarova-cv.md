@@ -2,14 +2,13 @@
 
 # Eliška Šafářová
 
-
+`elizabeth.safarova@gmail.com, instagram: elizabeth`
 
 
 ---
 **About me:** 
 
-I'm a Graphic designer, painter, illustrator and especially human being. Free to talk and discuss your needs and questions.
-Born in small village, now living the Prague life mixed with country life.
+I'm a Graphic designer, painter, illustrator and especially human being..... 
 
 --- 
 
@@ -28,7 +27,7 @@ Born in small village, now living the Prague life mixed with country life.
  
  * **Language:** 
  
-    *czech, english, german*
+    ###*czech, ####english, ####german*
     
  * **Software experience:** 
   
