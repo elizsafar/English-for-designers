@@ -2,7 +2,7 @@
 
 # Eliška Šafářová
 
-`elizabeth.safarova@gmail.com, 
+`elizabeth.safarova@gmail.com` 
 
 instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/)`
 
@@ -21,7 +21,7 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
   (2014-2018) High school of Technology and Art, Carlsbad
   
   
-  (2018-2021) Currently a student of the University of Creative Communication, Prague 
+  (2018-2021) Currently at the University of Creative Communication, Prague 
   
 --- 
  
@@ -50,7 +50,7 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
   
   * **In the real world:** 
   
-   * **Interships:** 
+  * **Interships:** 
  
 
    
