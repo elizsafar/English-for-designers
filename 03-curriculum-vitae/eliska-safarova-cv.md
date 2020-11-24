@@ -48,6 +48,8 @@ Born in small village, now living the Prague life mixed with country life.
   * **At High school:**
   
   * **In the real world:** 
+  
+   * **Interships:** 
  
 
    
