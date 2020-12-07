@@ -16,7 +16,7 @@ instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/)
 
 I'm a Graphic designer, painter, illustrator and especially human being..... 
 
- 
+--- 
 
 #### EDUCATION
 
@@ -24,6 +24,8 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
 
   * **(2014-2018) High school of Technology and Art, Carlsbad
    
+ ---
+ 
  #### SKILLS
  
  - product strategy
@@ -69,16 +71,24 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
 
  #### EXPERIENCE
   * **Personal work:** 
-  2020 - visual identity of medicial startup Emmy.md
-  2020 - web, branding, visual identity of Wattsenglish Karlovy Vary
-  2019 - vouchers, logo of Ellysium massage
-  2019 - branding for Carcosa Absintheria
-  2019 - visual identity of joiner Slepička 
-  2018 - visual identity of assosiation Schwa
-  2017 - visual identity of Film Festival in Ostrov nad Ohří (FOH)
+  
+ - 2020 - visual identity of medicial startup Emmy.md
+  
+ - 2020 - web, branding, visual identity of Wattsenglish Karlovy Vary
+  
+ - 2019 - vouchers, logo of Ellysium massage
+  
+ - 2019 - branding for Carcosa Absintheria
+  
+ - 2019 - visual identity of joiner Slepička 
+  
+ - 2018 - visual identity of assosiation Schwa
+  
+ - 2017 - visual identity of Film Festival in Ostrov nad Ohří (FOH)
   
   
   * **Public contracts at university: ** 
+  
 - 2020 Bollywood - a visual style for Bollywood film festival in Czechia 
 
 - 2020 Špindlerův mlýn - Summer campain
