@@ -67,7 +67,8 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
      * czech - native 
      * english - B1 
      * german - B1
-   
+ 
+ ---
 
  #### EXPERIENCE
   * **Personal work:** 
@@ -87,7 +88,7 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
  - 2017 - visual identity of Film Festival in Ostrov nad Ohří (FOH)
   
   
-  * **Public contracts at university: ** 
+  * **Public contracts at university:** 
   
 - 2020 Bollywood - a visual style for Bollywood film festival in Czechia 
 
