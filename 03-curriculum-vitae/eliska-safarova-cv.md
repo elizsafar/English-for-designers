@@ -20,9 +20,9 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
 
 #### EDUCATION
 
-  * **(2018-2021) Currently at the University of Creative Communication, Prague (3rd year)
+  * **(2018-2021) Currently at the University of Creative Communication, Prague (3rd year)**
 
-  * **(2014-2018) High school of Technology and Art, Carlsbad
+  * **(2014-2018) High school of Technology and Art, Carlsbad**
    
  ---
  
