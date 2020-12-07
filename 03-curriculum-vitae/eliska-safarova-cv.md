@@ -73,36 +73,36 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
  #### EXPERIENCE
   * **Personal work:** 
   
- - 2020 - visual identity of medicial startup Emmy.md
+ 2020 - visual identity of medicial startup Emmy.md
   
- - 2020 - web, branding, visual identity of Wattsenglish Karlovy Vary
+ 2020 - web, branding, visual identity of Wattsenglish Karlovy Vary
   
- - 2019 - vouchers, logo of Ellysium massage
+ 2019 - vouchers, logo of Ellysium massage
   
- - 2019 - branding for Carcosa Absintheria
+ 2019 - branding for Carcosa Absintheria
   
- - 2019 - visual identity of joiner Slepička 
+ 2019 - visual identity of joiner Slepička 
   
- - 2018 - visual identity of assosiation Schwa
+ 2018 - visual identity of assosiation Schwa
   
- - 2017 - visual identity of Film Festival in Ostrov nad Ohří (FOH)
+ 2017 - visual identity of Film Festival in Ostrov nad Ohří (FOH)
   
   
   * **Public contracts at university:** 
   
-- 2020 Bollywood - a visual style for Bollywood film festival in Czechia 
+2020 Bollywood - a visual style for Bollywood film festival in Czechia 
 
-- 2020 Špindlerův mlýn - Summer campain
+2020 Špindlerův mlýn - Summer campain
 
-- 2019 Koli - a redesign of Koli lemonade labels, social networks, Tv campain
+2019 Koli - a redesign of Koli lemonade labels, social networks, Tv campain
 
-- 2020 Young block - campain 
+2020 Young block - campain 
 
-- 2019 Bernard - a TV campain for beer company Bernard
+2019 Bernard - a TV campain for beer company Bernard
 
-- 2018 Blanka Matragi - a logo for fashion designer Blanka Matragi
+2018 Blanka Matragi - a logo for fashion designer Blanka Matragi
 
-- 2018 Bookafe - a visual identity for a literar cafe
+2018 Bookafe - a visual identity for a literar cafe
   
   
   
