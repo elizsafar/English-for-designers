@@ -110,7 +110,9 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
   * **Interships:** 
   
   Remembership_ - graphic design studio
+  
   Home_copy - printer/graphic design studio
+  
   Leben - Packaging-printer
  
 
