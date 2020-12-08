@@ -88,6 +88,8 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
  2018 - visual identity of assosiation Schwa
   
  2017 - visual identity of Film Festival in Ostrov nad Ohří (FOH)
+ 
+ ---
   
   
   * **Public contracts at university:** 
@@ -105,6 +107,8 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
 2018 Blanka Matragi - a logo for fashion designer Blanka Matragi
 
 2018 Bookafe - a visual identity for a literar cafe
+
+---
   
   
   
