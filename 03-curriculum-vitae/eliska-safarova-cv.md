@@ -34,6 +34,8 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
    
  ### Software experience:
   
+  ---
+  
    #### Adobe Creative Cloud 
    
    - Illustrator - illustration, vector graphic, logos 
