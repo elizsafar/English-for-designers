@@ -38,7 +38,7 @@ I'm a Graphic designer, painter, illustrator and especially human being.....
    
    - Illustrator - illustration, vector graphic, logos 
    
-   - Photoshop - editing pictures, montage , 
+   - Photoshop - editing pictures, montage 
    
    - InDesign - magazines, books
    
