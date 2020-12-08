@@ -1,4 +1,3 @@
-`work in process`
 
 # Eliška Šafářová
 
@@ -14,7 +13,7 @@ First of all I would like to say `hi`
 
 **ABOUT ME** 
 
-I'm a Graphic / Media designer, painter and especially human being. 
+I'm a Graphic designer, painter and especially human being. 
 I consider myself hardworking but with proper coffee brainstorming breaks. I’m up to for everything, from Illustration and visual identity to web, prototyping, animations. I'm a team player since my school years, always beeing part of a team. I believe in the power of team. More creative people more creative ideas. I can be serious but nether making fun the whole day. 
 
 
