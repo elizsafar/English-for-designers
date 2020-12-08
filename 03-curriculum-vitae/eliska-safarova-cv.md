@@ -15,7 +15,6 @@ First of all I would like to say `hi`
 I'm a Graphic / Media designer, painter and especially human being. 
 I consider myself hardworking but with proper coffee brainstorming breaks. I’m up to for everything, from Illustration and visual identity to web, prototyping, animations. I'm a team player since my school years, always beeing part of a team. I believe in the power of team. More creative people more creative ideas. I can be serious but nether making fun the whole day. 
 
---- 
 
 ## EDUCATION
 
@@ -23,7 +22,7 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
 
   * **(2014-2018) High school of Technology and Art, Carlsbad**
    
- ---
+
  
  ## SKILLS
  
@@ -35,7 +34,7 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
    
  #### Software experience:
   
-   * **Adobe Creative Cloud* 
+   ##### Adobe Creative Cloud 
    
    - Illustrator - illustration, vector graphic, logos 
    
@@ -48,28 +47,29 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
    - After effects - basic microanimations, animation, cuts, short movies
    
    
-   * **Procreate*
+   ##### Procreate
    - illustrations
    - giffs
    - animation
    
    
    
-   * **Github*
+   ##### Github
    
-   * **Microsoft world*
+   ##### Microsoft world
    
-   * **Basecamp*
+   ##### Basecamp
    
-    * **Language:** 
+   ##### Language: 
  
-     * czech - native 
-     * english - B1 
-     * german - B1
+   - czech - native 
+   - english - B1 
+   - german - B1
  
- ---
+
 
  ## EXPERIENCE
+ 
   * **Personal work:** 
   
  2020 - visual identity of medicial startup Emmy.md
