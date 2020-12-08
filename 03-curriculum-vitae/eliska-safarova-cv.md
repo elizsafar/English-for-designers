@@ -10,6 +10,8 @@ instagram: [elizabeth_safar.](https://www.instagram.com/elizabeth_safar/)
 
 First of all I would like to say `hi`
 
+---
+
 **ABOUT ME** 
 
 I'm a Graphic / Media designer, painter and especially human being. 
