@@ -17,7 +17,7 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
 
 --- 
 
-#### EDUCATION
+## EDUCATION
 
   * **(2018-2021) Currently at the University of Creative Communication, Prague (3rd year)**
 
@@ -25,7 +25,7 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
    
  ---
  
- #### SKILLS
+ ## SKILLS
  
  - product strategy
  - branding
@@ -33,9 +33,9 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
  - drawing
  
    
- * **Software experience:** 
+ #### Software experience:
   
-   *Adobe Creative Cloud* 
+   * **Adobe Creative Cloud* 
    
    - Illustrator - illustration, vector graphic, logos 
    
@@ -48,18 +48,18 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
    - After effects - basic microanimations, animation, cuts, short movies
    
    
-   *Procreate*
+   * **Procreate*
    - illustrations
    - giffs
    - animation
    
    
    
-   *Github*
+   * **Github*
    
-   *Microsoft world*
+   * **Microsoft world*
    
-   *Basecamp*
+   * **Basecamp*
    
     * **Language:** 
  
@@ -69,7 +69,7 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
  
  ---
 
- #### EXPERIENCE
+ ## EXPERIENCE
   * **Personal work:** 
   
  2020 - visual identity of medicial startup Emmy.md
