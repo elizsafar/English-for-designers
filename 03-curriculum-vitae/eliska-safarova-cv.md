@@ -32,9 +32,9 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
  - drawing
  
    
- #### Software experience:
+ ### Software experience:
   
-   ##### Adobe Creative Cloud 
+   #### Adobe Creative Cloud 
    
    - Illustrator - illustration, vector graphic, logos 
    
@@ -47,20 +47,20 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
    - After effects - basic microanimations, animation, cuts, short movies
    
    
-   ##### Procreate
+   #### Procreate
    - illustrations
    - giffs
    - animation
    
    
    
-   ##### Github
+   #### Github
    
-   ##### Microsoft world
+   #### Microsoft world
    
-   ##### Basecamp
+   #### Basecamp
    
-   ##### Language: 
+   #### Language: 
  
    - czech - native 
    - english - B1 
