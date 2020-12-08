@@ -66,8 +66,8 @@ I consider myself hardworking but with proper coffee brainstorming breaks. I’m
    #### Language: 
  
    - czech - native 
-   - english - B1 
-   - german - B1
+   - english - intermediate 
+   - german - intermediate
  
 
 
