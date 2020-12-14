@@ -1,7 +1,7 @@
 
 ## Writing style
 
-I wanted to write it with honesty, ethic, but still respect others.
+I wanted to write it with honesty, ethic, but still respect others opinions.
 
 ## Voice
 
