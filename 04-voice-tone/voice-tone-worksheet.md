@@ -7,6 +7,7 @@ I wanted to write it with honesty, ethic, but still respect others opinions.
 
 - Inspiring
 - Authentic
+- Personal
 
 
 ## Tone
