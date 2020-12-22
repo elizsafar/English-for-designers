@@ -29,3 +29,9 @@ I was a member since 2006 until 2018. But from 2016 I was more of a coach. Becau
 
 ![Mirákl](img/mirakl_love.png)
 
+![time_flies](img/timegoes.png)
+
+![winners](img/winners.png)
+
+
+
