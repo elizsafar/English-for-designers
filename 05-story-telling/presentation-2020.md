@@ -39,6 +39,6 @@ I was a member since 2006 until 2018. But from 2016 I was more of a coach. Becau
 
 ![Jump](img/nice_pic.png)
 
-![Jump](img/nice_pic.png)
-
 ![Workshop](img/workshop.png)
+
+![Thanks](img/final_thankyou.png)
