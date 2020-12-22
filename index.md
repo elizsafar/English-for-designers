@@ -10,7 +10,7 @@
 - [Voice tone](04-voice-tone/voice-tone-IV)
 - [Story telling](05-story-telling/presentation-2020)
 - [Semester takeaways](06-semester-takeawys/semester-takeaways.md)
-- - -
+
 
 [Home](https://github.com/elizsafar)
 
