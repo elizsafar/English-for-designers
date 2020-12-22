@@ -22,3 +22,10 @@ It's all about trainings.
 
 ![Practice](img/practice.png)
 
+### MIRÁKL
+
+Mirakl is my dance studio I attended. Celebrates 26 years since its inception.
+I was a member since 2006 until 2018. But from 2016 I was more of a coach. Because I started High school of art in Carlsbad. 
+
+![Mirákl](img/mirakl_love.png)
+
