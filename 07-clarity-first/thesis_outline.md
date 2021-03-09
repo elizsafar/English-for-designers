@@ -21,3 +21,28 @@ This Bachelor is about creating mainly a corporate identity of Dance studio Mir√
 - Analysing the competition, their weaknesses and strength.
 
 ### Notes
+* Dance studio
+* Corporate design
+* Visual identity
+* Social media
+* Marketing
+
+## Keywords
+* performance
+* dancing
+* instagram
+* facebook
+* video
+* tiktok
+* dancewear
+* visual style
+* logo design
+* slogans
+
+### References
+czech:
+[Besta Chrudim Dance studio](https://www.besta-chrudim.cz)
+[Movement studios](https://unitedmovement.cz)
+world:
+[Bolero Dance center](https://bolero.si/en/)
+[MN Dance company](https://www.mndancecompany.com)
