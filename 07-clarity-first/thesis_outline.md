@@ -20,6 +20,10 @@ This Bachelor is about creating mainly a corporate identity of Dance studio Mir√
 - In the theoretical part we meet the definitions of terms, they only explain the tools used in creating visualization and marketing identity.
 - Analysing the competition, their weaknesses and strength.
 
+### Voice & Tone
+- **Voice** - 
+- **Tone** - friendly, professional, authentic 
+
 ### Notes
 * Dance studio
 * Corporate design
