@@ -21,8 +21,8 @@ This Bachelor is about creating mainly a corporate identity of Dance studio Mir√
 - Analysing the competition, their weaknesses and strength.
 
 ### Voice & Tone
-- **Voice** - 
-- **Tone** - friendly, professional, authentic 
+- **Voice** - authentic, personal, inspiring, professional  
+- **Tone** - friendly, possitive, motivated  
 
 ### Notes
 * Dance studio
