@@ -6,7 +6,7 @@ This Bachelor is about creating mainly a corporate identity of Dance studio Mir√
 <details>
   <summary>Mind Map</summary>
 
-![Mind Map](mind_map.png)
+![Mind Map](mind_map_MIRAKL.png)
 </details>
 
 ## Outline
