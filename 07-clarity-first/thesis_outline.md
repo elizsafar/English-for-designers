@@ -41,8 +41,13 @@ This Bachelor is about creating mainly a corporate identity of Dance studio Mir√
 
 ### References
 czech:
+
 [Besta Chrudim Dance studio](https://www.besta-chrudim.cz)
+
 [Movement studios](https://unitedmovement.cz)
+
 world:
+
 [Bolero Dance center](https://bolero.si/en/)
+
 [MN Dance company](https://www.mndancecompany.com)
