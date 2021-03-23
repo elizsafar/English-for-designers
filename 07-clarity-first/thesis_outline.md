@@ -1,5 +1,5 @@
 
-# CORPORATE IDENTITY OF DANCE STUDIO #
+# VSUAL IDENTITY OF DANCE STUDIO #
 
 This Bachelor is about creating mainly a corporate identity of Dance studio Mirákl focused also in marketing and advertising. The Dance studio is centerted in the West of Czechia. Its on the market for 26 years and has a big tradition. The main focused is to provide children and teenege a good freetime activity, but also to make some spectacular, professional dancers.  
 
