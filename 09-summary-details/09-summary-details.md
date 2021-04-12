@@ -30,11 +30,9 @@ The dance group Mirákl was founded 26 years ago by choreographer Andrea Burešo
 
 ![Winning ](img/Winning02.jpg)
 
-## Benefit
-
-In the first phase, I started to analyze other dance groups, their visual and marketing communication. I also had to analyze the dance group itsel. Than I 
-
 ## Inpiration and Moodboard
+
+I was lookig for inspiration everywhere. The mood board of the dance group Mirákl is based on the created Brand essence. By creating, I defined the visual tonality. It reflects the idea of connecting two dimensions, dance movement, and connection. The process helped to create an identity. In the initial phase of creating a visual style, I looked for sources of inspiration on the Internet. I am based on all visual aspects, outlining the connection, movement, layering, discovery, and the aspect of mystery. My focus was also outside the active dance segment. Inspiration was sought in all industries. Photographs of the dancers themselves for the identity itself became a strong inspiration.
 
 ![Moodboard](img/moodboard.png)
 
