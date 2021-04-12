@@ -42,7 +42,7 @@ I was lookig for inspiration everywhere. The mood board of the dance group Mirá
 
 I bring the individuality of the studio and the dance movement into the visual identity by using dance photographs from performances, competitions, and the dancers of the Mirákl studio themselves. It gave movement into the static form of the visual style. The photographs are the best to demonstrate studio, dance, and dance moves. I design the mentioned connection of two dimensions into the used masks with photographs, which are project into liquid shapes.
 
-![Lamelo](img/lamelo.png)
+![Lamelo](img//lamelo-04.png)
 
 ## Logotype
 
