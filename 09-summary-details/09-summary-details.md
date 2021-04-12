@@ -74,7 +74,9 @@ For the dance group Mirákl i have created a brand new communication on social m
 
 I'm not using photographs the whole time. In the merch and the explications I'm using liquid shapes in black and white.
 
-![icon](img/merch_01.png)
+![Merch](img/merch_01.png)
+
+![Merch](merch_RND2-18.png)
 
 ## Feedback
 
