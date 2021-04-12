@@ -22,11 +22,13 @@ In the beginning, I was kind of lost. I didn't know the topic of the thesis for 
 
 For me, dance is a unique specific expression. It could be a communication between a spectator, a dancer, and telling a story. The dance is mysterious. It can influence a person's imagination. It lets the story be told in his way. That's the I love on dancing. Dancing is also a subjective matter. Dance is considered a manifestation of art. It allows you to use your body in a different new way. There are no limits.
 
+![Dancing](img/dancing01.jpg)
+
 ## Dance company Mirákl
 
 The dance group Mirákl was founded 26 years ago by choreographer Andrea Burešová. Today, the group has about 250 members. In its history, it has had several international and domestic successes. I was a member of the group for 13 years. The group is unique in her dancing style and dancing stories. They are not afraid to tell unique, instructive and often stories from history. That's the main thing about them. Mirákl is one of the leaders of the Czech dance scene. She performs in the dance categories Contemporary, Jazz, and Show Dance.
 
-
+![Winning ](img/Winning02.jpg)
 
 ## Benefit
 
