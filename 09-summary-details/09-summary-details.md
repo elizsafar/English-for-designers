@@ -14,6 +14,8 @@ Visual communication, dance, dance styles, brand, marketing communication, graph
 
 ## Why I choose this topic?
 
+In the beginning, I was kind of lost. I didn't know the topic of the thesis for a long time. I wasn't sure what I wanna do I didn't know anything. The only thing I knew was that I wanted to do something for a subject from Karlovy Vary. The region I'm from. Because if it's going to be for free, I wanna do it for someone I kind of know. And then the idea came. I thought why wouldn't I do it for a dance company I used to dance in. They are pretty good, winning all the competitions. Why wouldn't I do it for them? I called my trainer, told her my idea, she was pleased and immediately agreed.And that's it. My thesis theme came to life. 
+
 ![Map of czech republic](img/map.png)
 
 ## Dancing
