@@ -68,8 +68,6 @@ For the dance group Mirákl i have created a brand new communication on social m
 
 ![icon](img/social_media_instagram.png)
 
-![icon](img/)
-
 ## Merchadinsing 
 
 I'm not using photographs the whole time. In the merch and the explications I'm using liquid shapes in black and white.
