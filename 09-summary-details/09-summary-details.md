@@ -28,7 +28,7 @@ The dance group Mirákl was founded 26 years ago by choreographer Andrea Burešo
 
 ![Dancing](img/dancing01.jpg)
 
-![Winning ](img/Winning-02.jpg)
+![Winning ](img/Winning02.jpg)
 
 ## Inpiration and Mood board
 
