@@ -14,7 +14,7 @@ Visual communication, dance, dance styles, brand, marketing communication, graph
 
 ## Why I choose this topic?
 
-![Map of czech republic](map.png)
+![Map of czech republic](img/map.png)
 
 ## Dancing
 
