@@ -60,6 +60,8 @@ The logotype was created after defining the visual style. Of the planes used, pr
 
 ![icon](img/exhibice_RND1.png)
 
+![icon](img/ZK_RND6.png)
+
 ## Marketing Communication 
 
 For the dance group Mirákl i have created a brand new communication on social media and marketing messages. The new claim is "taste the story" which is base on the benefit of the group, telling stories. The whole communication has a lot of slogans based on the main claim "taste the story". The social media has a brand new content such as online classes, interviews, a day with a member and so on.
