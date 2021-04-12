@@ -14,7 +14,7 @@ Visual communication, dance, dance styles, brand, marketing communication, graph
 
 ## Why I choose this topic?
 
-
+<img src="/img/map.png" width="400">
 
 ## Dancing
 
