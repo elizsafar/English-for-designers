@@ -14,3 +14,6 @@ The practical part focuses on the visual style, logotype, slogans, and marketing
 The theoretical part introduces the reader to contemporary dance as a subject and brand analysis of other dance groups. The practical part explores the rebranding process, from brand philosophy and strategy to the design of core visual and media assets.
 
 The thesis intends to present the possible explications and applied use of the new visual and media communications rebrand.
+
+### Key words: 
+Visual communication, dance, dance styles, brand, marketing communication, graphic design, visual identity, social media
