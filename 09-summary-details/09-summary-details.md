@@ -38,7 +38,7 @@ I was lookig for inspiration everywhere. The mood board of the dance group Mirá
 
 ![Inspirationboard](img/inspiration_board.png)
 
-## Work in proces 
+## Work in proces
 
 I bring the individuality of the studio and the dance movement into the visual identity by using dance photographs from performances, competitions, and the dancers of the Mirákl studio themselves. It gave movement into the static form of the visual style. The photographs are the best to demonstrate studio, dance, and dance moves. I design the mentioned connection of two dimensions into the used masks with photographs, which are project into liquid shapes.
 
@@ -54,12 +54,23 @@ The logotype was created after defining the visual style. Of the planes used, pr
 
 ![icon](img/ikona_M-10.png)
 
+![icon](img/Mirakl_logo_new-01.png)
+
 ## The final visual identity
+
 
 ## Marketing Communication 
 
+For the dance group Mirákl i have created a brand new communication on social media and marketing messages. The new claim is "taste the story" which is base on the benefit of the group, telling stories. The whole communication has a lot of slogans based on the main claim "taste the story". The social media has a brand new content such as online classes, interviews, a day with a member and so on.
+
+## Merchadinsing 
+
+I'm not using photographs the whole time. In the merch and the explications I'm using liquid shapes in black and white.
+
 ## Feedback
+
+I presented the new brand identity and marketing communication to the dance studio. They loved it. The work is going to be implemented. It should be on their social media, website and so on by the end of May. 
 
 ## What is going to happened in the future? 
 
-## List of sources 
+
