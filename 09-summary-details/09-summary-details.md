@@ -76,7 +76,7 @@ I'm not using photographs the whole time. In the merch and the explications I'm 
 
 ![Merch](img/merch_01.png)
 
-![Merch](merch_RND2-18.png)
+![Merch](img/merch_RND2-18.png)
 
 ## Feedback
 
