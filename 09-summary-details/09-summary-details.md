@@ -44,7 +44,7 @@ I bring the individuality of the studio and the dance movement into the visual i
 
 ![Lamelo](img//lamelo-04.png)
 
-![Lamelo](img//lamelo_02_Kreslicí plátno 1 kopie 2-09.png)
+![Lamelo](img//lamelo_09.png)
 
 ## Logotype
 
