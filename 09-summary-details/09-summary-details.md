@@ -44,6 +44,8 @@ I bring the individuality of the studio and the dance movement into the visual i
 
 ![Lamelo](img//lamelo-04.png)
 
+![Lamelo](img//lamelo_02_Kreslicí plátno 1 kopie 2-09.png)
+
 ## Logotype
 
 The logotype was created after defining the visual style. Of the planes used, projected in visual identity, the logotype features mostly dance movement. The logo stands on the font destruction. It works on the illusion of wave moves. Its task is to evoke the grace, energy, and fluidity of the dance movement. My intention was not to put down the dance and the dancers, on the contrary, to merge with his movement and complement their unique performances and personalities. Each letter in the logotype is its own, original as a dance movement and the dancer himself. 
