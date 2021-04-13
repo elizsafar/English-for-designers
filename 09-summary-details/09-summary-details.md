@@ -80,8 +80,7 @@ I'm not using photographs the whole time. In the merch and the explications I'm 
 
 ## Feedback
 
-I presented the new brand identity and marketing communication to the dance studio. They loved it. The work is going to be implemented. It should be on their social media, website and so on by the end of May. 
+I presented the new brand identity and marketing communication to the dance studio. They loved it. The work is going to be implemented. It should be on their social media, website and others platforms by the end of May. 
 
-## What is going to happened in the future? 
 
 
