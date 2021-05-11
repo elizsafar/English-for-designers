@@ -15,5 +15,5 @@ The theoretical part introduces the reader to contemporary dance as a subject an
 
 The thesis intends to present the possible explications and applied use of the new visual and media communications rebrand.
 
-### Key words: 
+### Keywords: 
 Visual communication, dance, dance styles, brand, marketing communication, graphic design, visual identity, social media
