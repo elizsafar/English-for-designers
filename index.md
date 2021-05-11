@@ -10,6 +10,10 @@
 - [Voice tone](04-voice-tone/voice-tone-IV)
 - [Story telling](05-story-telling/presentation-2020)
 - [Semester takeaways](06-semester-takeawys/semester-takeaways.md)
+- [Clarity first](07-clarity-first/thesis_outline.md)
+- [Abstract draft](08-abstract-draft/08-abstract-draft.md)
+- [Summary details](09-summary-details/09-summary-details.md)
+- [Presentation](10-presentation/final_presentationMIRAKL.pdf)
 
 
 [Home](https://github.com/elizsafar)
